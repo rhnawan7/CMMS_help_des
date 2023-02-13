@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99696621586",
+    "project_id": "cmms-a5bd8",
+    "storage_bucket": "cmms-a5bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99696621586:android:bb9556ed8a80ae357d80cb",
+        "android_client_info": {
+          "package_name": "com.example.maintenance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99696621586-64u1jsei45d77rvkqcmfshvtl97h0lqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2plRRetHR9J_uoqCzKG2sO-hySmSblDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99696621586-64u1jsei45d77rvkqcmfshvtl97h0lqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
